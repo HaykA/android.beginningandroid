@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BeginningAndroid</string>
+    <string name="text_beginning_android">Beginning Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_increment_button">Increment Button</string>
+    <string name="text_image_view_example">ImageView Example</string>
+    <string name="text_edit_text_example">EditText Example</string>
+    <string name="text_checkbox_example">CheckBox Example</string>
+    <string name="text_switch_example">Switch Example</string>
+    <string name="text_radio_button_group_example">RadioButton Example</string>
+    <string name="text_clocks_example">Clocks Example</string>
+    <string name="text_seek_bar_example">Seekbar Example</string>
+    <string name="text_relative_layout_example">Relative Layout Example</string>
+    <string name="text_relative_overlap_example">Relative Overlap Example</string>
+    <string name="text_linear_layout_example">Linear Layout Example</string>
+    <string name="text_table_layout_example">Table Layout Example</string>
+    <string name="text_list_view_example">List View Example</string>
+    <string name="text_grid_view_example">Grid View Example</string>
+    <string name="text_spinner_example">Spinner Example</string>
+    <string name="text_autocomplete_text_view_example">AutocompleteTextView Example</string>
+    <string name="text_ime_example1">IME Example 1</string>
+    <string name="text_optionMenu_example">Option Menu Example</string>
+    <string name="text_menu_xml_example">MenuXML Example</string>
+    <string name="text_popup_examples">Popup Examples</string>
+</resources>
